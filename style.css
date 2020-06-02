@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(25, 162, 216);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header, main, footer {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
