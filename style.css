@@ -8,6 +8,11 @@ header, main, footer {
     color: white;
 }
 
+main {
+    background-color: teal;
+    padding: 10px;  
+}
+
 footer {
     text-align: center;
     color: white;
